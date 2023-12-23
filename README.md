@@ -4,3 +4,4 @@ This is an e-commerce application built using React JS
 
 # Available terminal commands
 npm install && npm run dev
+ 
