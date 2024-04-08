@@ -8,6 +8,5 @@ This is an e-commerce application built using Node JS for the backend & React JS
 ![Screenshot 2024-04-08 at 11 51 02 PM](https://github.com/ashish-augustine/iStore-react/assets/2153396/e9e9f05e-2239-4215-80e0-28aed88b68a3)
 
 
-# Terminal commands
-npm install && npm run dev
+
  
